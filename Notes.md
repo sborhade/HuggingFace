@@ -1,4 +1,4 @@
-RAG: Retrieval Augmented Generation
+RAG: Retrieval Augmented Generation.
 
 Data sources like files, audio, video.
 
@@ -12,4 +12,9 @@ AI assistant using LLM models will work on vector store data to generate respons
 
 Document load chain: 
 Retrieval chain: It is a interface to query vector store DB. based on this retrieval chain query we get the response.
+
+In Langchain we have data ingestion classes like: 
+Document Loaders.
+Text loaders.
+
 
